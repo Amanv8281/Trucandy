@@ -1,0 +1,276 @@
+
+@font-face
+{
+	src: url('../css/Courgette-Regular.ttf') format("truetype");
+	font-family: 'courgette';
+}
+
+html
+{
+	scroll-behavior: smooth !important;
+	
+	
+}
+
+.cour-font
+{
+	font-family: courgette;
+	
+}
+.theme-green
+{
+	color: rgba(161, 166, 26, 1);
+}
+.choco-clr
+{
+	color:rgba(204, 102, 0, 1);
+}
+
+.choco-clr-bg
+{
+	background-color:rgba(204, 102, 0, 1);
+}
+
+.theme-green-bg
+{
+	background-color: rgba(161, 166, 26, 1);
+}
+.b-r
+{
+	border-radius: 5px;
+}
+.l-t
+{
+	letter-spacing: .5px;
+}
+.f-w
+{
+	font-weight: 500;
+}
+.img-90
+{
+	width: 100% !important;
+}
+.p-u
+{
+	/*position: relative;
+	top: -17%;*/
+}
+.sm-f
+{
+	font-size: 12px;
+}
+
+.hov:hover
+{
+	box-shadow: 0px 9px 20px -12px rgba(0, 0, 0, .35);
+}
+.gray-bg
+{
+	background-color: rgba(245, 245, 245, .25);
+}
+.txt-center
+{
+	text-align: center;
+}
+.btn-175
+{
+	 width: 175px;
+}
+.height-35
+{
+	
+	min-height: 45vh !important;
+	background-color:rgba(0, 0, 0, .75);
+
+}
+
+.cus-btn
+{
+	border: 2px solid rgba(161, 166, 26, 1);
+}
+
+.choco-bg
+{
+	background-color:rgba(204, 102, 0, .25);
+}
+
+.gem-bg
+{
+	background-image: url(img/bg-min.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+.cus-btn:hover
+{
+	background-color: rgba(161, 166, 26, 1);
+	color: rgba(255, 255, 255, 1);
+}
+.footer-bg
+{
+	background-color: rgba(32, 18, 18, 1);
+}
+.b-bottom
+{
+	border-bottom: 1px #fff solid;
+	
+}
+
+.m-p-0
+{
+	margin: 0px !important;
+	padding: 0px !important;
+}
+.m-top-5
+{
+	margin-top: -100px !important;
+	margin-bottom: 0px !important;
+}
+
+.m-top-0
+{
+	margin-top: -40px !important;
+}
+
+.delay1
+{
+	animation-delay: .6s !important;
+}
+
+.prodct-wrap-bg
+{
+	background-color:rgba(255, 225, 196, .85);
+}
+
+.b-bottom
+{
+	border-bottom: 1px #fff solid;
+	
+}
+
+.h-2px
+{
+	height:2px;
+	position: relative;
+	top: -2px;
+}
+
+.product-bg-wall
+{
+	background-image: url(img/candy-bg-min.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.clr-c60
+{
+	color: rgba(204, 102, 16, 1);
+}
+
+.product-pos
+{
+	margin-top: -70px !important;
+}
+
+.font-siz
+{
+	font-size: 15px !important;
+}
+
+.b-bottom-green
+{
+	border-bottom: 1.5px rgba(161, 166, 26, 1) solid;
+	
+}
+
+.clr-c60-bg
+{
+	background-color: rgba(204, 102, 16, 1);
+}
+
+.contact-bg
+{
+	background-image: url(img/contact-us-min.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px !important;
+	padding: 0px !important;
+	
+}
+
+.dark-bg
+{
+	background-color: rgba(0, 0, 0, .7);
+}
+
+.btn-outline-white
+{
+	border: solid 1px #fff;
+	color:#fff;
+}
+
+.btn-outline-white:hover
+{
+	color: rgba(255, 255, 255, 1);
+	
+}
+
+.bg-frm
+{
+	background-color: rgba(137, 68, 48, 1);
+}
+
+.frm-img
+{
+	background-image: url(img/frm-bg-min.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px !important;
+	padding: 0px !important;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:992px)
+{
+	.md-pad
+	{
+		padding-right: px 6% !important;
+		padding-left: px 6% !important;
+	}
+
+
+
+
+
+
+
+
+
+
+
+}
